@@ -2,6 +2,8 @@
 
 **Hire a local to plan your day.** Limon is a link-in-bio marketplace where travelers commission local creators to plan custom day trips, so they can travel like someone who lives there. It also sends tourism money to people who grew up in the area.
 
+**Live demo:** https://ramon-2.github.io/limon-hackathon/
+
 ## Run it
 
 Limon is a static site with no build step. Serve the folder with any web server:
